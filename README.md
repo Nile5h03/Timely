@@ -11,10 +11,10 @@ Whether you're tracking workouts, coding sprints, presentations, or any moment w
 
 - ▶️ Start, ⏸️ Pause, 🔁 Reset functionality  
 - ⏱️ Real-time stopwatch display with milliseconds  
-- ⏳ Lap recording *(if implemented)*  
+- ⏳ Lap recording available.  
 - 🌙 Optional Dark Mode for low-light environments  
 - 📱 Fully responsive – works on mobile, tablet, and desktop  
-- ⚡ Pure HTML, CSS, and JavaScript – no libraries or frameworks
+- ⚡ Pure HTML, CSS, and JavaScript.
 
 ---
 
