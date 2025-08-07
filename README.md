@@ -41,11 +41,3 @@ _(Replace with your GitHub Pages or Netlify link)_
 
 ---
 
-## 📦 Installation
-
-To run locally:
-
-```bash
-git clone https://github.com/Nile5h03/Timely.git
-cd Timely
-open index.html  # Or use Live Server extension in VS Code
